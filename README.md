@@ -1,7 +1,6 @@
 <p align="center" > 
-  <img width="125px" src="https://github.com/BeepBoopBit/BeepBoopBit/assets/90445232/54673a5e-1c79-4408-bf88-7c064f752fd9" align="left" alt="GitHub Readme Stats" /> 
   <img src="https://komarev.com/ghpvc/?username=beepboopbit&label=Profile%20views&color=0e75b6&style=flat" alt="beepboopbit" align="right"/> 
-  <h1 align="left"> '
+  <h1 align="left">
     BeepBoopBit
   </h1>
   <p align="left"> 
