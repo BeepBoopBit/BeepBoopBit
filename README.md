@@ -20,14 +20,14 @@
     Languages that I constantly use
   </h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,mysql"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,r,sass"/>
   </div>
 
   <h2 align="center">
     Frameworks that I worked with
   </h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=rocket,fastapi,tensorflow,tauri"/>
+    <img src="https://skillicons.dev/icons?i=rocket,fastapi,tensorflow,angular,pytorch"/>
   </div>
   
 
@@ -35,7 +35,7 @@
     Tools that I used
   </h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,mongodb,neovim,rocket,vscode,git"/>
+    <img src="https://skillicons.dev/icons?i=git,linux,mongodb,neovim,vscode,git,docker,postgres,mysql"/>
   </div>
   
 </div>
