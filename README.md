@@ -1,12 +1,4 @@
 <p align="center" > 
-  <div>
-    <a href="https://www.linkedin.com/in/beepboopbit/" align="left">
-      <img src="https://img.shields.io/badge/Connect_With_Me-LinkedIn-blue?colorA=655BE1&colorB=4F44D6&style=for-the-badge" align="left"/>
-    </a>
-    <a href="https://www.buymeacoffee.com/BeepBoopBit" align="right">
-      <img src="https://img.shields.io/badge/Support_Me-By_Me_a_Coffee-blue?colorA=61c265&colorB=4CAF50&style=for-the-badge" align="right"/>
-    </a>
-  </div>
   <br>
   <h1 align="center">
     BeepBoopBit
