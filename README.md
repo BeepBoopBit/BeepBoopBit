@@ -1,43 +1,19 @@
-<p align="center" > 
-  <br>
-  <h1 align="center">
-    BeepBoopBit
-  </h1>
-  <p align="center"> 
-    A Computer Science Student in Mapua University.
-  </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner-light.svg" alt="BeepBoopBit — making life easier, mostly mine. A coffee-loving mascot floats on a raft in a painted teal ocean." width="100%">
+</picture>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeepBoopBit&amp;name=BeepBoopBit&amp;theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeepBoopBit&amp;name=BeepBoopBit&amp;theme=github">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeepBoopBit&amp;name=BeepBoopBit&amp;theme=github" alt="BeepBoopBit's GitHub contribution summary" width="100%">
+  </picture>
 </p>
-  
-  <h2 align="center">
-    Languages that I constantly use
-  </h2>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,ts,js,r,sass"/>
-  </div>
 
-  <h2 align="center">
-    Frameworks that I worked with
-  </h2>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=rocket,fastapi,tensorflow,angular,pytorch"/>
-  </div>
-  
+---
 
-  <h2 align="center">
-    Tools that I used
-  </h2>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,linux,mongodb,neovim,vscode,git,docker,postgres,mysql"/>
-  </div>
-  
-</div>
-
-<h2 align="center">
-  Stats
-</h2>
-
-<div align="center">
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beepboopbit&theme=default" align="center"/>
-  
-</div>
+<p align="center">
+  <a href="https://beepboopbit.com">beepboopbit.com</a>
+</p>
